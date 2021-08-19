@@ -8,5 +8,8 @@ assignees: webmaxru
 
 ---
 
-**Please, edit the template below**
-| EVENT_NAME | DD.MM.2021 | LOCATION or Online| URL |
+**Please, edit the template below.**
+
+**Example: | JavaZone Conference | 08.12.2021 | Oslo, Norway | https://2021.javazone.no |**
+
+| EVENT_NAME | DD.MM.2021 | LOCATION or Online | URL |
