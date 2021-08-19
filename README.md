@@ -11,8 +11,7 @@ Are you collecting [Azure Heroes](https://aka.ms/azure-heroes) badges? Attend th
 | AUG Norway: Bicep parameters & functions | 08.09.2021 | Online | https://www.meetup.com/Azure-User-Group-Norway/events/280169013/ |
 | Data Saturday Oslo | 04.09.2021 | Online | https://datasaturdays.com/2021-09-04-datasaturday0014/ |
 | DEVREAL.io: Azure DevOps at Norway | 26.08.2021 | Online | https://www.meetup.com/azure-meetup-oslo/events/277384022/ |
-
-
+<!-- Copy/paste this template: | EVENT_NAME | DATE (DD.MM.YYYY) | LOCATION or Online | URL | -->
 
 ## Past events
 
